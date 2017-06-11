@@ -1,0 +1,109 @@
+{
+  "name": "English",
+  "sidebar": {
+    "delete":{
+      "name": "Are you sure you want to delete"
+      },
+    "actions": {
+      "title": "MENUS",
+      "dashboard": "Welcome",
+      "start": "Create new project",
+      "update": "Update",
+      "vuex": "VUEX"
+    },
+    "records": {
+      "title": "Project",
+      "revealinfinder": "Reveal {name} in the Finder",
+      "movetotrash": "Move {name} to Trash"
+    },
+    "settings": {
+      "title": "Settings"
+    },
+    "options": {
+      "title": "OPTIONS",
+      "theme": {
+        "title": "Theme",
+        "default": "Default",
+        "dark": "Dark",
+        "light": "Light"
+      },
+      "address": "IP Address",
+      "port": "Port",
+      "locales": "Language"
+    },
+    "help": {
+      "title": "HELPS",
+      "options": "Options",
+      "about": "About",
+      "back": "Back"
+    }
+  },
+  "about": {
+    "appname": "Weappgenerater",
+    "appdescription": "Weappgenerater is a quickly making weapp tools.It can make weapp quickly!",
+    "v8": "V8",
+    "env": "Env",
+    "core": "Core",
+    "data": "Data",
+    "node": "Node",
+    "chromium": "Chromium",
+    "electron": "Electron",
+    "btn_reveal": "Reveal Log File",
+    "btn_ok": "OK"
+  },
+  "dashboard": {
+    "productername": "Direction Software",
+    "producterurl": "http://www.dqzfkj.com/",
+    "introduction": "Weappgenerater is a quickly making weapp tools.It can make weapp quickly!",
+    "copyright": "Copyright (c) 2017 Direction Software, Inc. All Rights Reserved."
+  },
+  "start": {
+    "title": "Weapp global config",
+    "window": {
+      "label": "window(用于设置小程序的状态栏、导航条、标题、窗口背景色。)",
+      "navigationBarBackgroundColor": "导航栏背景颜色"
+    },
+    "academy_name": {
+      "title": "所属学院"
+    },
+    "subject_name": {
+      "title": "所属学科"
+    },
+    "class_count": {
+      "title": "班级总人数",
+      "placeholder": "请输入班级总人数"
+    },
+    "head_name": {
+      "title": "班主任名称",
+      "placeholder": "请输入班主任名称"
+    },
+    "class_name": {
+      "title": "班级名称",
+      "placeholder": "分校名+品牌+学科名+班级类型+期数（时间+授课模式）"
+    },
+    "course_name": {
+      "title": "课程阶段",
+      "placeholder": "请输入课程阶段"
+    },
+    "course_days": {
+      "title": "课程天数",
+      "placeholder": "请输入课程天数"
+    },
+    "teacher_name": {
+      "title": "讲师姓名",
+      "placeholder": "请输入讲师姓名"
+    },
+    "teacher_email": {
+      "title": "讲师邮箱",
+      "placeholder": "请输入讲师邮箱"
+    },
+    "datetime": {
+      "title": "测评日期"
+    },
+    "submit": "创建新的测评"
+  },
+  "watch": {
+    "title": "View your project",
+    "save": "Save your modified project"
+  }
+}

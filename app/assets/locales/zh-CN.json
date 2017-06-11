@@ -1,0 +1,109 @@
+{
+  "name": "简体中文",
+  "sidebar": {
+    "delete":{
+      "name": "确认删除"
+      },
+    "actions": {
+      "title": "导航",
+      "dashboard": "欢迎页",
+      "start": "创建新项目",
+      "update": "自动更新",
+      "vuex": "VUEX"
+    },
+    "records": {
+      "title": "创建的项目",
+      "revealinfinder": "在文件夹中找到{name}文件",
+      "movetotrash": "将{name}文件移至回收站"
+    },
+    "settings": {
+      "title": "设置"
+    },
+    "options": {
+      "title": "选项",
+      "theme": {
+        "title": "皮肤主题",
+        "default": "默认",
+        "dark": "暗色",
+        "light": "亮色"
+      },
+      "address": "IP地址",
+      "port": "端口",
+      "locales": "语言"
+    },
+    "help": {
+      "title": "帮助",
+      "options": "选项",
+      "about": "关于",
+      "back": "返回"
+    }
+  },
+  "about": {
+    "appname": "微信小程序生成器",
+    "appdescription": "微信小程序生成器，打造可视化的微信小程序快速生成软件，为你快速构建属于你自己的微信小程序!",
+    "v8": "V8",
+    "env": "环境",
+    "core": "内核",
+    "data": "数据",
+    "node": "Node版本",
+    "chromium": "Chromium版本",
+    "electron": "Electron版本",
+    "btn_reveal": "找到日志文件",
+    "btn_ok": "好的"
+  },
+  "dashboard": {
+    "productername": "微信小程序生成器",
+    "producterurl": "http://www.dqzfkj.com/",
+    "introduction": "微信小程序生成器，打造可视化的微信小程序快速生成软件，为你快速构建属于你自己的微信小程序!",
+    "copyright": "版权所有 (c) 2017 正方软件，保留一切权利"
+  },
+  "start": {
+    "title": "小程序全局配置",
+    "window": {
+      "label": "window(用于设置小程序的状态栏、导航条、标题、窗口背景色。)",
+      "navigationBarBackgroundColor": "导航栏背景颜色"
+    },
+    "academy_name": {
+      "title": "所属学院"
+    },
+    "subject_name": {
+      "title": "所属学科"
+    },
+    "navigationBarBackgroundColor": {
+      "title": "导航栏背景颜色",
+      "placeholder": "请输入导航栏背景颜色"
+    },
+    "head_name": {
+      "title": "班主任名称",
+      "placeholder": "请输入班主任名称"
+    },
+    "class_name": {
+      "title": "班级名称",
+      "placeholder": "分校名+品牌+学科名+班级类型+期数（时间+授课模式）"
+    },
+    "course_name": {
+      "title": "课程阶段",
+      "placeholder": "请输入课程阶段"
+    },
+    "course_days": {
+      "title": "课程天数",
+      "placeholder": "请输入课程天数"
+    },
+    "teacher_name": {
+      "title": "讲师姓名",
+      "placeholder": "请输入讲师姓名"
+    },
+    "teacher_email": {
+      "title": "讲师邮箱",
+      "placeholder": "请输入讲师邮箱"
+    },
+    "datetime": {
+      "title": "测评日期"
+    },
+    "submit": "创建新的测评"
+  },
+  "watch": {
+    "title": "浏览项目",
+    "save": "保存修改"
+  }
+}

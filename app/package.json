@@ -1,0 +1,20 @@
+{
+  "name": "Weappgenerater",
+  "version": "1.0.0",
+  "description": "Weappgenerater is a quickly making weapp tools.It can make weapp quickly!",
+  "updated": "2017-06-03T10:08:18.325Z",
+  "main": "main.js",
+  "dependencies": {
+    "asar-updater": "^0.3.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "log4js": "^0.6.38",
+    "moment": "^2.18.1",
+    "xtemplate": "^4.6.0",
+    "xtpl": "^3.2.0"
+  },
+  "devDependencies": {
+    "devtron": "^1.3.0",
+    "vue-devtools": "^2.0.4"
+  }
+}
